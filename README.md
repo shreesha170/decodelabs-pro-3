@@ -97,4 +97,6 @@ This project demonstrates:
 
 ## Author
 
+**Shreesha P**
+
 Created as part of Frontend Project 3 to demonstrate modern frontend development skills using HTML, CSS, and JavaScript.
